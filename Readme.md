@@ -23,7 +23,7 @@ Based (ported) on the JS version: https://github.com/ArtemOnigiri/Light-Simulati
 
 
 ## Installation
-To run the game of life project on your local machine, follow these steps:
+To run the light simulation project on your local machine, follow these steps:
 
 Clone the Repository:
 
